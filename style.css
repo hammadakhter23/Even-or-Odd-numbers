@@ -1,0 +1,9 @@
+*_{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(./even\ or\ odd.webp);
+    background-position: center;
+    background-size: cover;
+}
